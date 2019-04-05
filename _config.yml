@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Fanger's Blog
-tagline:             Data Science
+title:               Fanger's
+tagline:             Data Science Blog
 url:                 http://robcfang.github.io
 paginate:            2
 baseurl:             ""
