@@ -1,21 +1,17 @@
 ---
 layout: post
-title: Rob's Test Post
+title: Week 1 Project - MTA Turnstile Data
 ---
 
-This is a test post. 
+First week's of METIS bootcamp came to an end.  Tasked with the project to use the MTA turnstile data to
+help WTWY, Woman Tech Woman Yes, optimize their street teams to get the most of email signups for their
+annual OMGYN Gala.
 
-To make a post, you must follow the naming convention shown for this file,
-with the data as the first part of the file name, seperated by dashes. Then
-the name of the post as you want it to be stored, with spaces as dashes.
-Finally, you must also keep the 
+Being honest it was an daunting task for me at first, however, I was very fortunate to work in a team of
+4 talented and patient individuals.
 
-```
----
-layout: post
-title: Zach's Test Post
----
-```
+Mission: Come up with additional data resources that will help the WTWY achieve its conversion goals
+![Image test](https://upload.wikimedia.org/wikipedia/commons/5/56/The_Thinker%2C_Rodin.jpg)
 
 Part in the post to tell the page how to title your post and how to render it.
 
